@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/abid%20kuliah/SUbmission%20Sistem%20Machine%20Learning/Workflow-CI/mlruns/0/65dafe6c4259465fad4f956b87db50ec/artifacts
+end_time: 1784110041780
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 65dafe6c4259465fad4f956b87db50ec
+run_name: adaptable-toad-129
+run_uuid: 65dafe6c4259465fad4f956b87db50ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784110028489
+status: 3
+tags: []
+user_id: ASUS
